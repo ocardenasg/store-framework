@@ -21,7 +21,8 @@
       "search-fetch-more"
     ],
     "props": {
-      "pagination": "show-more"
+      "pagination": "show-more",
+      "preventRouteChange": false
     }
   }
 }
