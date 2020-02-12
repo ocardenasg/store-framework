@@ -4,7 +4,8 @@
   },
   "image#landingbanner": {
     "props": {
-      "minWidth": "100%"
+      "minWidth": "100%",
+      "src": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/electronics_banner___25d69b49f8224b369375e68513b4d593.png"
     }
   },
   "search-result-layout.customQuery": {
